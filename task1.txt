@@ -1,0 +1,11 @@
+1. Difference between HTTP1.1 vs HTTP2
+
+* HTTP1.1 used to process text commands to complete request-response cycles.
+* HTTP/2 will use binary commands (in 1s and 0s) to execute the same tasks.
+
+
+2. about objects and its internal representation in Javascript
+
+* Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+* Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+* objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs

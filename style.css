@@ -1,0 +1,16 @@
+button{
+    background-color:"pink";
+    font-size: 20px;
+    padding: 15px 25px;
+    font-weight: 400px;
+    letter-spacing: 15px;
+
+}
+button:hover{
+    transition: border 0.4s ease-in-out;
+    cursor:pointer;
+}
+input{
+    background:"grey";
+    padding: 15px 25px;
+}

@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.bg {
+  background-color: royalblue;
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+}
+
+#bg2 {
+  background-color: red;
+}
+
+body {
+  background-color: aquamarine;
+}
